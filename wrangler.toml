@@ -4,7 +4,7 @@ compatibility_date = "2023-03-22"
 
 [[kv_namespaces]]
 binding = "disco"
-id = "ce5dcdc2c4d342eab7d04ce6623c6541"
+id = "222924d1b67f444d847c6b5efff75fad"
 
 [build]
 command = "cargo install -q worker-build && worker-build --release"
